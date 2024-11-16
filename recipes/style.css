@@ -9,21 +9,35 @@
 }
 
 .wakye {
-    background-color: rgb(53, 9, 9);
+    background-color: rgb(77,0,0,25%);
     color: white;
+    padding: 8px;
+    border: 1px solid black;
 }
 
 .jollof {
-    background-color: rgb(230, 27, 27);
+    background-color: rgb(230, 27, 27, 50%);
     color: black;
+    padding: 8px;
+    border: 1px solid red;
 }
 
 h1 {
-    background-color: rgb(212, 168, 168);
+    background-color: #d4a8a840;
     color: rgb(26, 25, 25);
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
 }
 
 h2 {
-    background-color: aquamarine;
-    color: rgb(20, 2, 2);
+    background-color: rgb(212, 168, 168, 10%);
+    color: rgb(26, 25, 25);
+    border: 1px solid black;
+    padding: 8px;
+}
+p {
+   background-color: bisque;
+   border: 1px solid yellowgreen;
+   padding: 8px; 
 }
